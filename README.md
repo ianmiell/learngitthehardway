@@ -1,12 +1,12 @@
-This repository is a play repository for readers of the book Learn Git the Hard Way, available at 
+This repository is a play repository for readers of the book Learn Git the Hard Way, available at
 
 https://leanpub.com/learngitthehardway
 
 
 WOW what a great feature!
 
-"my change to the README" 
-'a temp change on tmpbranch' 
+"my change to the README"
+'a temp change on tmpbranch'
 my change to the README
 another change to the README
 my change to the README
@@ -44,3 +44,6 @@ KT's change to readme
 another change from KT
 my change to the README
 my change to the README MM
+yet another change to the README
+this should be definetely a fix for it
+another change to the README
