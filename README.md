@@ -2,7 +2,6 @@ This repository is a play repository for readers of the book Learn Git the Hard 
 
 https://leanpub.com/learngitthehardway
 
-
 WOW what a great feature!
 
 "my change to the README"
@@ -27,7 +26,7 @@ my second change to the README Matan Wittner
 Aran's change to the README
 another change to the README
 One more change to README
-One more another change (*^o^*)
+One more another change (_^o^_)
 my change to the readme
 another change to the readme
 my change to the README!!
@@ -56,4 +55,5 @@ my change to the README
 a temp change on tmpbranch
 my change to the README
 my change to the README
-Aakash change to the READMEmy change to the README - HB
+Aakash change to the README
+my change to the README - Harshit
