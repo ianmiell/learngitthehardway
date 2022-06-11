@@ -108,3 +108,8 @@ my change to the README
 changing the README
 _my change to the README_
 **another change to the README**
+my change to the README<sup>1</sup>
+my change to the README<sup>2</sup>
+my change to the README<sup>3</sup>
+my change to the README<sup>4</sup>
+my change to the README<sup>5</sup>
