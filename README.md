@@ -113,4 +113,6 @@ my change to the README<sup>2</sup>
 my change to the README<sup>3</sup>
 my change to the README<sup>4</sup>
 my change to the README<sup>5</sup>
+my change to the README
+another change to the README
 a new era of changes to the README
