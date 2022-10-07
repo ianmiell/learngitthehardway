@@ -3,7 +3,7 @@ This repository is a play repository for readers of the book Learn Git the Hard 
 https://leanpub.com/learngitthehardway
 
 WOW what a great feature!
-
+new change to the README
 "my change to the README"
 'a temp change on tmpbranch'
 my change to the README
@@ -134,3 +134,4 @@ my changes
 my changes
 change to readme
 Test change to the README
+my change to the README
