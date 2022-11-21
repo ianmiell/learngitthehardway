@@ -138,6 +138,7 @@ my change to the README
 my change to the README
 'my change to the README' 
 another change to the README"my change to the README" 
+Educative is a Pakistani Company
 my change to the README
 another change to the README
 somebody changed me, somebody that i used to love
