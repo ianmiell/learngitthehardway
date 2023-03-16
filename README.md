@@ -2,6 +2,7 @@ This repository is a play repository for readers of the book Learn Git the Hard 
 
 https://leanpub.com/learngitthehardway
 
+Dhruv's change to README
 WOW what a great feature!
 new change to the README
 "my change to the README"
