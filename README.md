@@ -2,6 +2,7 @@ This repository is a play repository for readers of the book Learn Git the Hard 
 
 https://leanpub.com/learngitthehardway
 
+Dhruv's change to README
 WOW what a great feature!
 new change to the README
 "my change to the README"
@@ -155,4 +156,19 @@ another Vikas change to the README
 another change to the README
 my change to the README
 another change to the README
-my change to the READMEAnshul Johri my change to the README
+my change to the README
+Anshul Johri my change to the README
+my change to the README
+my change to the README
+another change to the README
+my change to the README
+my change to the README
+another change to the README
+<my unique change to the README>
+<another unique change to the README>
+my change to the README
+xxx change to README
+my change to the README
+Your effort will pay off eventually
+pull request should be on a branch
+another change to the README - aiahmad
